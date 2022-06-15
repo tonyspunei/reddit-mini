@@ -37,7 +37,7 @@
 
 
 ## Screenshots
-![Example screenshot](./static/screenshot.png)
+![Example screenshot](./static/screenshot.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
