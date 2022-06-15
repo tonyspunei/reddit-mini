@@ -1,8 +1,54 @@
-# Getting Started with Create React App
+# Reddit Mini
+> This is a mini version of Reddit built using React, Redux, and TailwindCSS
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
-## Available Scripts
+
+## General Information
+- The purpose of the Project is to deepen my React & Redux knowlegen, and understand better how Redux manages state.
+- I've built this project to prove to myself that I understood the concepts learnt so far inside the Codecademy Full Stack Career Path. And I want to apply as much as I can from what Codecademy has taught me.
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies Used
+- React - version ^18.2.0
+- Redux - version ^4.2.0
+- Tailwind CSS - version 3.1.3
+- Jest & Enzyme
+
+
+## Features
+- Desktop and Mobile responsive
+- Search funtionality
+- Filter Data (by selecting sub reddits)
+- 
+
+
+## Screenshots
+![Example screenshot](./static/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
+
+
+## Setup
+<!-- What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+
+Proceed to describe how to install / setup one's local environment / get started with the project. -->
+
+Run `npm install` to install all the dependencies
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -14,11 +60,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -26,8 +67,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -39,32 +78,35 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Project Status
+Project is: _in progress_ 
+<!-- / _complete_ / _no longer being worked on_ . If you are no longer working on it, provide reasons why. -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Room for Improvement
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Room for improvement:
+- Improvement to be done 1
+- Improvement to be done 2
 
-### Code Splitting
+To do:
+- Feature to be added 1
+- Feature to be added 2
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Acknowledgements
+Give credit here.
+- This project was inspired by Codecademy Full Stack Career Path
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Contact
+Created by [@tonyspunei](https://www.linkedin.com/in/tony-spunei-6a3378211/) - feel free to contact me!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- You don't have to include all sections - just the one's relevant to your project -->
